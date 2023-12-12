@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Thamil1710.github.io/MediaApp/static/css/main.dfc8085e.css",
+    "main.js": "/Thamil1710.github.io/MediaApp/static/js/main.5ef311b0.js",
+    "index.html": "/Thamil1710.github.io/MediaApp/index.html",
+    "main.dfc8085e.css.map": "/Thamil1710.github.io/MediaApp/static/css/main.dfc8085e.css.map",
+    "main.5ef311b0.js.map": "/Thamil1710.github.io/MediaApp/static/js/main.5ef311b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc8085e.css",
+    "static/js/main.5ef311b0.js"
+  ]
+}
